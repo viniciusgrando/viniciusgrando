@@ -1,4 +1,6 @@
-### Hi there, I'm Vini 👋
+### Yo! I'm Vini 👋
+👨‍💻 Passionate about coding and creating innovative solutions
+
 
 <!--
 **viniciusgrando/viniciusgrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
