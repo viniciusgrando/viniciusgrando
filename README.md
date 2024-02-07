@@ -1,4 +1,4 @@
-### Yo! I'm Vini 👋
+# Yo! I'm Vini 👋
 👨‍💻 Passionate about coding and creating innovative solutions
 
 # 💻 Tech Stack:
