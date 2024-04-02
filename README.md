@@ -1,3 +1,3 @@
 ## Yo! I'm Vini 👋
-👨‍💻 Passionate about coding and creating innovative solutions
+👨‍💻 Enthusiastic about coding and crafting cutting-edge solutions.
 
